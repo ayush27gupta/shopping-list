@@ -1,0 +1,19 @@
+.container-add {
+  border: 5px inset green;
+  width: 70%;
+  margin: auto;
+  margin-top: 5%;
+  padding: 2%;
+}
+
+label {
+  margin: 1rem 0rem;
+  padding: 1rem 0rem;
+  font-weight: 600;
+}
+
+input,
+select {
+  margin: 0.2rem 0rem;
+  width: 30%;
+}
